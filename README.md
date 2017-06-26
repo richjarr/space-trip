@@ -1,2 +1,3 @@
 # space-trip
-software for taking picture in space
+software for taking pictures in space.
+
